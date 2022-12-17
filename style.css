@@ -11,3 +11,8 @@ body {
 .fa-circle-check {
     padding-right: 4px;
 }
+
+footer {
+    background-color: #0B0D17;
+    height: 280px;
+}
